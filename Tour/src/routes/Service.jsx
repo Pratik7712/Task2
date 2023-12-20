@@ -3,13 +3,14 @@ import Hero from "../components/Hero";
 import Navbar from "../components/Navbar"
 import Trip from "../components/Trip";
 
+
 function Service() {
   return (
     <>
     <Navbar/>
     <Hero
     cName="hero-mid"
-    heroImg="/night.jpg"
+    heroImg="/10.jpg"
     title="Service"
     btnClass="hide"
     />
